@@ -1,0 +1,24 @@
+# Secrets — never commit your API key
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Frontend build output and packages (recreated by npm install / npm run build)
+frontend/node_modules/
+frontend/dist/
+
+# Legacy Streamlit version (no longer used)
+app.py
+hud.py
+.streamlit/
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

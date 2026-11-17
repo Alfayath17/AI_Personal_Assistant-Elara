@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+gTTS
+edge-tts
+fastapi
+uvicorn
+python-multipart
